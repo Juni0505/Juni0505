@@ -1,16 +1,16 @@
-### Hi there 👋
+# 천영준
+Email : dudwns050505@gmail.com
+#### :floppy_disk: Introduction
+안녕하세요 천영준입니다.<br>
+군대 전역후 제주도 공항에서 항공보안파트너스에 4년 일하다 개발자에 관심이 있어 서울로 상경했습니다.<br>
+제주도에서 올라와 개발자에 대한 열정을 그대로 끊임없이 발전하는 개발자가 되고싶습니다.
+#### :clipboard: About ME
+- 2018.10 육군 병장 만기전역
+- 2019.04 (주)에스텍베스트 입사
+- 2020.01 자회사 변경에 따른 항공보안파트너스 입사
+- 2023.01 항공보안파트너스 퇴사
+- 2023.05 ~ 2023.10 KH 정보교육원 JAVA 공공데이터 융합 과정 이수
+## :muscle: Skills
 
-<!--
-**Juni0505/Juni0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
