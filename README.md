@@ -22,25 +22,11 @@
 ---
 ## :muscle: Skills
 <div>
-  <img src="https://img.shields.io/badge/MacOS-%23000000?style=plastic&logo=macOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apache&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apache%20maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juni0505&show_icons=true&theme=gotham" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juni0505&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://img.shields.io/badge/AWS%20Aurora-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 </div>
 
 ## :clipboard: Complete Project
