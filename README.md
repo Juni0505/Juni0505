@@ -46,3 +46,8 @@
 ## :clipboard: Complete Project
 - 2023.08.22~2023.10.31 GajiMartket(당근마켓 클론코딩)
 - 2023.07.30~2023.08.30 개인프로젝트 - 맛집정보찾기(카카오맵을 통해 비즈니스 회원이 등록한 맛집 확인)
+
+## 🚀 Current Focus
+- **LG U+ AlphaKey 프로젝트** 참여 (Spring Boot 백엔드 개발 & AWS Aurora MySQL 운영)  
+- 상용 배포 DB 스크립트 작성 및 검증, 대규모 고객 테이블 운영  
+- 서비스 기획·개발·운영 전 주기 경험 축적  
