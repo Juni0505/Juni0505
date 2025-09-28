@@ -1,5 +1,5 @@
 # 👋 천영준 (YoungJun Cheon)
-📧 Email : dudwns050505@gmail.com  
+📧 Email : dudwns05050505@gmail.com  
 
 ---
 
